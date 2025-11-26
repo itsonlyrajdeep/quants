@@ -6,4 +6,4 @@
 
 At the moment, the repository is raw and new, over the course of next 6 months, I will be using this repo to journal my journey and keep track of my learnings. Stay connected.
 
-# TODO: I don't remember how to use emojis in markdown, I will learn it and use it her later on.
+### TODO: I don't remember how to use emojis in markdown, I will learn it and use it her later on.
